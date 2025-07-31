@@ -6,10 +6,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ## 📋 Descripción del Sistema
-**PocketFlow** es una solución tecnológica desarrollada por **WoMo Studio** para la gestión automatizada de finanzas personales, ofreciendo control inteligente de gastos y análisis de patrones financieros.
+**PocketFlow** es una solución tecnológica desarrollada por **WoMo Soluciónˢ** para la gestión automatizada de finanzas personales, ofreciendo control inteligente de gastos y análisis de patrones financieros.
 
 ## 🛠 Stack Tecnológico
-**Backend:**
+**Backend Avanzado:**
 - Python + Flask (RESTful)
 - PostgreSQL (Database)
 - JWT (Autenticación)
@@ -38,7 +38,7 @@ Sistema de gestión financiera personal diseñado con:
 * **Seguridad integral**: Protección robusta de datos financieros con cifrado avanzado
   
 ## 🛡️ Derechos de Autor
-© 2025 WoMo Studio. Todos los derechos reservados.
+© 2025 WoMo Soluciónˢ. Todos los derechos reservados.
 
 **Condiciones de uso:**
 - Estrictamente confidencial
@@ -49,12 +49,12 @@ Sistema de gestión financiera personal diseñado con:
 **Julián Alberto Ramírez**  
 💻 CTO & Desarrollador Full Stack   
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
-🏢 **WoMo Studio** - Soluciones Tecnológicas Avanzadas  
+🏢 **WoMo Soluciónˢ** - Soluciones Tecnológicas Avanzadas  
 
 📧 [Correo corporativo](mailto:womostd@gmail.com)  
 📧 [Correo alternativo](mailto:juliram81@hotmail.com)  
 📱 [WhatsApp](https://wa.me/573180401930)  
-🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-studio/)  
+🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-solucions/)  
 
 💡 **Notas Técnicas:**  
 Este sistema demuestra capacidades avanzadas en:  
@@ -68,5 +68,5 @@ Este sistema demuestra capacidades avanzadas en:
 
 
 📅 **Control de Versiones**  
-📅 **Versión Actual:** 1.1.0  
-🔄 **Última Actualización:** Julio 2025
+📅 ![Versión](https://img.shields.io/badge/Versión-1.1.0-blue)  
+🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
