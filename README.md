@@ -6,7 +6,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ## 📋 Descripción del Sistema
-**PocketFlow** es una solución tecnológica desarrollada por **WoMo Soluciónˢ** para la gestión automatizada de finanzas personales, ofreciendo control inteligente de gastos y análisis de patrones financieros.
+Es una solución tecnológica para la gestión automatizada de finanzas personales, ofreciendo control inteligente de gastos y análisis de patrones financieros.
 
 ## 🛠 Stack Tecnológico
 **Backend Avanzado:**
@@ -63,10 +63,8 @@ Este sistema demuestra capacidades avanzadas en:
 ✅ Planificación estratégica  
 ✅ Dashboard financiero interactivo  
 
-
 "Tu acompañante financiero para decisiones informadas"
 
 
 📅 **Control de Versiones**  
-📅 ![Versión](https://img.shields.io/badge/Versión-1.1.0-blue)  
-🔄 ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
+![Versión](https://img.shields.io/badge/Versión-1.1.0-blue) ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
